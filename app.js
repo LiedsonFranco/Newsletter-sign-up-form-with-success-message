@@ -8,6 +8,7 @@ function check_email(){
     console.log(email)
     if(validarEmail(email)){
         document.querySelector('main').style.display = 'none'
+        document.querySelector('section').style.display = 'flex'
         console.log('Is valid')
     }
     else{
