@@ -11,7 +11,8 @@ This is the challenge 👉🏽
     - [Built with](#built-with)
 
 ### Screenshot
-![](/screenshot/desktop.png)
+![Desktop screenshoot](/screenshot/desktop.png)
+![Mobile screenshoot](/screenshot/mobile.png)
 
 ### Built with
 - Semantic HTML5 markup
